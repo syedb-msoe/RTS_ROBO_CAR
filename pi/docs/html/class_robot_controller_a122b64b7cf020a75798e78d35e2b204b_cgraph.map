@@ -1,0 +1,7 @@
+<map id="RobotController::stop" name="RobotController::stop">
+<area shape="rect" id="node1" title=" " alt="" coords="5,60,165,87"/>
+<area shape="rect" id="node2" href="$class_robot_controller.html#a76d37b76b29d19ed5e50e59cb5cc1b3c" title=" " alt="" coords="213,23,396,65"/>
+<area shape="rect" id="node5" href="$class_runnable_class.html#abbb26caf0864f824bb4c701a96fb2dc6" title=" " alt="" coords="227,89,382,116"/>
+<area shape="rect" id="node3" href="$class_command_queue.html#aea5eb507e82827e1e6494e43f28a23da" title=" " alt="" coords="452,5,647,32"/>
+<area shape="rect" id="node4" href="$class_motor_controller.html#afe0c90360e0ff8043b8d20cc439dbe0d" title=" " alt="" coords="444,56,655,83"/>
+</map>

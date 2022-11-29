@@ -1,0 +1,11 @@
+<map id="RobotController::run" name="RobotController::run">
+<area shape="rect" id="node1" title=" " alt="" coords="5,115,159,141"/>
+<area shape="rect" id="node2" href="$class_command_queue.html#a2b5e629d0400f9b2054ca0a80cee5173" title=" " alt="" coords="207,5,401,32"/>
+<area shape="rect" id="node3" href="$class_command_queue.html#a8bf67be6b3206816a7196a8bea1d8b70" title=" " alt="" coords="208,56,400,83"/>
+<area shape="rect" id="node4" href="$class_robot_controller.html#a76d37b76b29d19ed5e50e59cb5cc1b3c" title=" " alt="" coords="213,107,395,149"/>
+<area shape="rect" id="node7" href="$class_robot_controller.html#a3a3c48b6117955153cceef79f100b5e6" title=" " alt="" coords="463,195,646,237"/>
+<area shape="rect" id="node9" href="$class_robot_controller.html#a1da0045457f604bc30d998f3c01d8071" title=" " alt="" coords="209,225,399,266"/>
+<area shape="rect" id="node5" href="$class_command_queue.html#aea5eb507e82827e1e6494e43f28a23da" title=" " alt="" coords="457,89,652,116"/>
+<area shape="rect" id="node6" href="$class_motor_controller.html#afe0c90360e0ff8043b8d20cc439dbe0d" title=" " alt="" coords="449,140,660,167"/>
+<area shape="rect" id="node8" href="$class_motor_controller.html#ad6537e115b5e5e671339b13181bfc991" title=" " alt="" coords="708,203,900,229"/>
+</map>
